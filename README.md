@@ -1,6 +1,6 @@
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
-### Name:Kishore E
-### Reg no: 212223080028
+### Name: Dineshraj N
+### Reg no: 212223080012
 AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
